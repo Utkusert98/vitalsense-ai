@@ -47,5 +47,5 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 ### 1. Projeyi Klonlayın
 ```bash
-git clone [https://github.com/KULLANICI_ADINIZ/VitalSense-AI.git](https://github.com/KULLANICI_ADINIZ/VitalSense-AI.git)
+git clone [https://github.com/Utkusert98/Vitalsense-AI](https://github.com/Utkusert98/Vitalsense-AI)
 cd VitalSense-AI
