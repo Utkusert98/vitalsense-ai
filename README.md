@@ -46,12 +46,11 @@ This project was developed using modern **Full-Stack** architecture.
 Follow the steps below to run the project on your local machine.
 
 ### 1. Clone the Project
-'''bash
+```bash
 
 git clone [https://github.com/Utkusert98/Vitalsense-AI.git](https://github.com/Utkusert98/Vitalsense-AI.git)
 cd VitalSense-AI
-
-
+```
 
 🧬 VitalSense AI - Akıllı Sağlık Asistanı
 
